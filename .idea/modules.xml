@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CaseStudy_Module2.iml" filepath="$PROJECT_DIR$/CaseStudy_Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../String_Regex/String_Regex.iml" filepath="$PROJECT_DIR$/../String_Regex/String_Regex.iml" />
+    </modules>
+  </component>
+</project>
